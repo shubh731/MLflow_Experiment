@@ -1,0 +1,9 @@
+# MLflow tracking directory
+mlruns/
+
+# Other files/directories to ignore
+data/
+model/
+__pycache__/
+.DS_Store
+*.pyc
